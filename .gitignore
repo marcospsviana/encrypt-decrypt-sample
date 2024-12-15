@@ -689,3 +689,8 @@ $RECYCLE.BIN/
 
 .env
 env
+
+#content pem
+.pem
+*/.pem
+*.pem
